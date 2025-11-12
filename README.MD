@@ -10,3 +10,8 @@ This hosts list is not yet comprehensive. Legacy Kindle 4 users will still find 
 1. Download the [Latest Zip](https://github.com/mitchellurgero/kindle-kual-blockamazon/releases)
 2. Extract and then copy `blockamazon` to your KUAL Extensions folder (`<YourKindle>\extensions\` by default).
 3. Open KUAL and run the block or unblock function :) Takes effect immediately.
+
+## See also
+- LunarEclipse's work ([Release thread on MobileRead](https://www.mobileread.com/forums/showthread.php?p=4545829#post4545829), [Codeberg repo](https://codeberg.org/LunarEclipse/kindle-block-amazon)), which has been tested as working on K3 and K4 Kindles. 
+- [Darthagnon's investigation on michellurgero's repo](https://github.com/mitchellurgero/kindle-kual-blockamazon/issues/2), which found some additional domains.
+- [Darthagnon's question about K4: "This device is not authorised as a test Kindle](https://www.mobileread.com/forums/showthread.php?t=363431) (09/02/2024)

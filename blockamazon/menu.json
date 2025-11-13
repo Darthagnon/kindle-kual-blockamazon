@@ -15,7 +15,14 @@
             "priority": 2, 
             "action": "bin/unblock.sh",
             "exitmenu": false
+		},
+		{
+            "name": "Reboot after un/blocking",
+            "priority": 3, 
+            "action": "bin/reboot.sh",
+            "exitmenu": false
 		}
+
 		]
 	}
 	]

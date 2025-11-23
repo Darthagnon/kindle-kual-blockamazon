@@ -1,8 +1,8 @@
 {
 	"items": [
 	{
-		"name": "Block Amazon v1.3",
-		"priority": -998,
+		"name": "Block Amazon v1.4",
+		"priority": 999,
 		"items": [
 		{
             "name": "Block Amazon",

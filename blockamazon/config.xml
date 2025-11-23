@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension>
 	<information>
+		<name>Block Amazon</name>
+		<version>1.4</version>
+		<author>Darthagnon</author>
+		<id>Block Amazon</id>
 	</information>
 	<menus>
 		<menu type="json" dynamic="true">menu.json</menu>

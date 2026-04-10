@@ -7,7 +7,7 @@ This hosts list is not yet comprehensive. Updates may still download. Some featu
 
 ## Installing
 
-1. Download the [Latest Zip](https://github.com/mitchellurgero/kindle-kual-blockamazon/releases)
+1. Download the [Latest Zip](https://github.com/Darthagnon/kindle-kual-blockamazon/tags)
 2. Extract and then copy `blockamazon` to your KUAL Extensions folder (`<YourKindle>\extensions\` by default).
 3. Open KUAL and run the block or unblock function :) 
 4. It should takes effect immediately, but a reboot is recommended to be sure.
